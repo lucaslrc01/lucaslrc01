@@ -10,10 +10,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC (Instituto Feder
 - Focado em construir aplicações robustas e escaláveis.
 - Interesses em: Desenvolvimento Back-end, Segurança da Informação e Arquitetura de Sistemas.
 
-### Minhas Contribuições
-
-![snake gif](https://raw.githubusercontent.com/lucaslrc01/lucaslrc01/output/github-contribution-grid-snake.svg)
-
 --- 
 
 ### Tecnologias e Ferramentas
